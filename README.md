@@ -57,3 +57,22 @@ I build practical things around **AI agents, MCP, research workflows, and develo
 ## One-liner
 
 **Turning complex AI workflows into practical tools, usable systems, and lab-style experiments.**
+
+## Recent Highlight
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hongsw/openclaw/main/apps/ios/screenshots/session-2026-03-07/talk-mode.png" alt="OpenClaw Talk Mode" width="720" />
+</p>
+
+### OpenClaw Talk Mode improvements
+
+Recently, I worked on improving **OpenClaw's Talk Mode** to make voice interaction feel more natural, more responsive, and more usable in real-world scenarios.
+
+Highlights:
+- better spoken interaction flow
+- improved Korean voice conversation quality
+- smoother TTS + LLM pipeline
+- interrupt-friendly playback experience
+- benchmark-based model and latency tuning
+
+This was less about adding one more feature, and more about making **voice-native AI feel actually usable**.
