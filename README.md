@@ -60,9 +60,7 @@ I build practical things around **AI agents, MCP, research workflows, and develo
 
 ## Recent Highlight
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hongsw/openclaw/main/apps/ios/screenshots/session-2026-03-07/talk-mode.png" alt="OpenClaw Talk Mode" width="720" />
-</p>
+![OpenClaw Talk Mode](https://raw.githubusercontent.com/hongsw/openclaw/main/apps/ios/screenshots/session-2026-03-07/talk-mode.png)
 
 ### OpenClaw Talk Mode improvements
 
