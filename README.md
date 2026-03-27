@@ -60,8 +60,6 @@ I build practical things around **AI agents, MCP, research workflows, and develo
 
 ## Recent Highlight
 
-![OpenClaw Talk Mode](https://raw.githubusercontent.com/hongsw/openclaw/main/apps/ios/screenshots/session-2026-03-07/talk-mode.png)
-
 ### OpenClaw Talk Mode improvements
 
 Recently, I worked on improving **OpenClaw's Talk Mode** to make voice interaction feel more natural, more responsive, and more usable in real-world scenarios.
