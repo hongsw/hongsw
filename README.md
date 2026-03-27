@@ -60,15 +60,16 @@ I build practical things around **AI agents, MCP, research workflows, and develo
 
 ## Recent Highlight
 
-### OpenClaw Talk Mode improvements
+### OpenClaw Talk Mode TTS improvements
 
-Recently, I worked on improving **OpenClaw's Talk Mode** to make voice interaction feel more natural, more responsive, and more usable in real-world scenarios.
+One of my recent contributions is **improving OpenClaw Talk Mode for CJK languages and real-world voice use**.
 
-Highlights:
-- better spoken interaction flow
-- improved Korean voice conversation quality
-- smoother TTS + LLM pipeline
-- interrupt-friendly playback experience
-- benchmark-based model and latency tuning
+Related PRs:
+- [#53553](https://github.com/openclaw/openclaw/pull/53553) — `fix(talk): Talk Mode TTS improvements for CJK languages` *(open)*
+- [#53511](https://github.com/openclaw/openclaw/pull/53511) — `fix(talk): prevent double TTS playback when system voice times out` *(merged)*
 
-This was less about adding one more feature, and more about making **voice-native AI feel actually usable**.
+What this work focused on:
+- better Talk Mode TTS behavior for CJK languages
+- preventing double playback in edge cases
+- making spoken interaction more stable and usable
+- refining real-world voice UX instead of stopping at a demo
