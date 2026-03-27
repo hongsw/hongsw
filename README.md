@@ -1,8 +1,8 @@
 # Hi, I'm Seungwoo Hong 👋
 
-### AI Agent 연구소 / AI Agent Lab
+### AI Agent OS Lab / AI Agent OS 연구소
 
-개인 개발자이자, 동시에 **AI Agent 연구소**를 운영하듯 프로젝트를 만들고 있습니다.  
+개인 개발자이자, 동시에 **AI Agent OS Lab**이라는 감각으로 프로젝트를 만들고 있습니다.  
 I build practical things around **AI agents, MCP, research workflows, and developer tooling**.
 
 쉽게 말하면,
@@ -20,8 +20,8 @@ I build practical things around **AI agents, MCP, research workflows, and develo
 
 ## About this lab
 
-**AI Agent 연구소**는 거창한 기관 이름이라기보다,  
-제가 AI agent system, workflow, interface, and applied experiments를 계속 쌓아가는 작업 공간에 가깝습니다.
+**AI Agent OS Lab**는 거창한 기관 이름이라기보다,  
+제가 AI agent systems, workflows, interfaces, and applied experiments를 계속 쌓아가는 작업 공간에 가깝습니다.
 
 여기서는 보통 이런 걸 합니다:
 - ideas → prototypes
@@ -47,11 +47,11 @@ I build practical things around **AI agents, MCP, research workflows, and develo
 
 ## Vibe / Keywords
 
-`AI Agents` `MCP` `Research Automation` `Agentic Workflows` `Developer Tooling` `Applied AI` `Experiments` `Builder`
+`AI Agents` `AI Agent OS` `MCP` `Research Automation` `Agentic Workflows` `Developer Tooling` `Applied AI` `Experiments` `Builder`
 
 ## More about me / the lab
 
-- [**Lab Intro Page**](https://lab-intro-page.vercel.app/)  
+- [**AI Agent OS Lab**](https://ai-agent-os-lab.vercel.app/)  
   projects, experiments, direction, and the broader story behind what I'm building
 
 ## One-liner
